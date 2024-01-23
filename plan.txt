@@ -1,0 +1,27 @@
+CONVERSATION OASIS 2.0
+
+TECHNOLOGIES:
+
+1. NODE JS
+2. WEB SOCKET
+3. Mongo Db 
+4. Template engines
+
+
+FEATURES:
+
+1. User Registration : name;email;mobile number;image
+2. User Login
+3. User Dashboard
+4. Show all users on Dashboard
+5. Users can see, who is online or offline : 
+        offline : tab close, network issue, browser cut, shutdown , log out detection using socket.io
+
+6. Users can chat will all users
+7. users can update your chats
+8. User can delete your chats.
+9. Chat notification to user 
+
+METHODOLOGIES : 
+1. MVC STRUCTURE
+2. .env - configuration and security purposes
